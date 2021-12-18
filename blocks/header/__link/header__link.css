@@ -2,3 +2,6 @@
     text-decoration: none;
     color: #2f80ed;
 }
+.header__link:hover {
+    color: blue;
+}
