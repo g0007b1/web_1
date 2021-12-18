@@ -2,11 +2,8 @@
     display: flex;
     flex-direction: column;
     margin: 100px 0 0;
-    background-image: url(../../images/feinman.png);
-    background-repeat: no-repeat;
-    background-color: #F2F2F2;
     background-size: 867px 637px;
-    background-position: left bottom;
+    background: #F2F2F2 url(../../images/feinman.png) no-repeat left bottom;
     align-items: center;
     position: relative;
     height: 890px;
